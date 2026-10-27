@@ -1,6 +1,6 @@
 <h1 align="center">✨ Full-Stack Interview Platform ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/c02d263e-1ae4-4f4c-8872-84db9b8c0e00.png)
 
 ✨ Highlights:
 
